@@ -2,7 +2,7 @@
 
 This app helps you to maintain your notes about whatever you want.
 
-Technology used: Kotlin, Jetpack Compose, Room Database, Dagger Hilt, MVVM, Mockito and more
+Technology used: Kotlin, Jetpack Compose, Room Database, Dagger Hilt, MVVM, Testing, Mockito and more
 
 
 Now you can order your notes by title, color or date(Yes, you can set color to your note)
