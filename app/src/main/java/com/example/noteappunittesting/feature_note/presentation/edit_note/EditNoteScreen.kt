@@ -166,7 +166,7 @@ fun EditNoteScreen(
                 model = imageState,
                 contentDescription = "Note Image",
                 contentScale = ContentScale.Crop,
-                placeholder = painterResource(id = R.drawable.ic_launcher_background),
+                placeholder = painterResource(id = R.drawable.grey),
                 modifier = Modifier
                     .fillMaxHeight(0.25f)
                     .fillMaxWidth()
